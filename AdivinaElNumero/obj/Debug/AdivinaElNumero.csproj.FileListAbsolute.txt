@@ -1,0 +1,5 @@
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\AdivinaElNumero\AdivinaElNumero\bin\Debug\AdivinaElNumero.exe.config
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\AdivinaElNumero\AdivinaElNumero\bin\Debug\AdivinaElNumero.exe
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\AdivinaElNumero\AdivinaElNumero\bin\Debug\AdivinaElNumero.pdb
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\AdivinaElNumero\AdivinaElNumero\obj\Debug\AdivinaElNumero.exe
+C:\Users\tomas\Desktop\Facultad\Laboratorio ll\AdivinaElNumero\AdivinaElNumero\obj\Debug\AdivinaElNumero.pdb
